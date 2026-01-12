@@ -4,8 +4,8 @@ This project is an end-to-end automated testing framework built to validate the 
 ) using Selenium WebDriver, TestNG, Java, and MySQL.
 
 The framework covers UI, database-driven testing, and real user scenarios to ensure the stability and reliability of the application.
+
 The Scope of Testing 
-1. the First webite to test 
 
 1. Homepage Accessibility
 Test Case ID: TC_ATS_001
